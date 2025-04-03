@@ -5,8 +5,8 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
 
 # Claves API
-API_KEY = ""  # Reemplaza con tu clave API de Football-Data.org
-TELEGRAM_BOT_TOKEN = ""  # Reemplaza con tu token de Telegram
+API_KEY = "ddac830e88b36908d910d3a6243febe0"  # Reemplaza con tu clave API de Football-Data.org
+TELEGRAM_BOT_TOKEN = "7468130122:AAGemkwMbVxUYGufj8ILwtfNzs3oed41Gx0"  # Reemplaza con tu token de Telegram
 
 # Configuración de logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
